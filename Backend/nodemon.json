@@ -1,0 +1,6 @@
+{
+    "env": {
+        "MONGO_PASSWORD": "sid1601",
+        "JWT_KEY": "Marauders"
+    }
+}
